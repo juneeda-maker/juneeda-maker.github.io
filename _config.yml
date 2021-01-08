@@ -26,7 +26,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-#author_logo: null
+author_logo: soon.png
 author: ji-yoon
 author_bio: Hi, my name is ji-yoon. :D
 author_email: null
